@@ -3,7 +3,7 @@
 # String can also be reversed by converting it to array, then joining it after reversing
 
 
-<h2>Test Cases</h2>
+<h2>Challenges (0/3 done)</h2>
 
 
  - [X] reverseAString("JavaScript is awesome") should return "emosewa si tpircSavaJ"
