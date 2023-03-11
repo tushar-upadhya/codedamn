@@ -19,5 +19,3 @@ console.log(`My random number: ${randomNumberGeneratorInRange(555, 100)}`)
 
 ```
 
- - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random">Link</a>
-  - <a href="https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range">Link</a>
