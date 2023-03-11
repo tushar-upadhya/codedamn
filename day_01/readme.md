@@ -2,7 +2,7 @@
 # Create a function which returns a random number in the given range of values both inclusive
 
 
-<h2>Test Cases</h2>
+<h2>Challenges (0/3 done)</h2>
 
 
   - [X] randomNumberGeneratorInRange(10, 50) should return a number between 10-50 (inclusive)
